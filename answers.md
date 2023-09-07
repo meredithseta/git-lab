@@ -56,5 +56,20 @@ Date:   Thu Sep 7 16:10:50 2023 -0400
 
     Initial commit
 
-    
+Answer 9 = 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10 = No, the changes were not updated on my local copy
+
+Answer 11 = It failed because there are updates on the remote file that aren't on the local file and says to pull before pushing the files
+
+Answer 12 = The changed updated on the local file
+
+Answer 13 = .			.git			git-lab-program.cc
+..			README.md
+
+
 
